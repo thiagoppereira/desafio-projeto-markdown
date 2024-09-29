@@ -2,7 +2,7 @@
 <h2 align=center> Explorando Colaboração de Marcação</h2>
 ---------------
 
-[Matrix](https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C)
+![Matrix](https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C)
 
 Nesse projeto, serão exercitados conceitos de colaboração com outros programadores como.:
 - Inclusão de colaborador em um projeto;
