@@ -1,4 +1,4 @@
-<h1 aligh=center> Desafio de Projeto </h1>
+<h1 align=center> Desafio de Projeto </h1>
 <h2 align=center> Explorando Colaboração de Marcação</h2>
 ---------------
 
