@@ -10,7 +10,10 @@ Nesse projeto, serão exercitados conceitos de colaboração com outros programa
 
 Também serão exercitados conceitos da linguagem Markdown, um exemplo é a criação deste README.
 
+A partir deste ponto, todas as alterações serão realizadas com base em um item do exercício.
 
-# Esta é uma alteração feita a partir de um clone, via VSCODE na máquina local.
+1. Clone em máquina Local.:
+Esta é uma alteração feita a partir de um clone, via VSCODE na máquina local.
 
+2. Resolução de Issue.:
 Data de Realização.: 28-09-2024
