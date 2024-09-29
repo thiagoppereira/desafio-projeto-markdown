@@ -1,7 +1,9 @@
 <h1 align=center> Desafio de Projeto </h1>
 <h2 align=center> Explorando Colaboração de Marcação</h2>
 
-<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFlcTBwbjVpbzZmM203NTI5d3d1M2wzd3ZkaDZ2cWNuaWduNjl0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.webp></img>
+<block align=center>
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFlcTBwbjVpbzZmM203NTI5d3d1M2wzd3ZkaDZ2cWNuaWduNjl0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.webp></img>
+</block>
 
 Nesse projeto, serão exercitados conceitos de colaboração com outros programadores como.:
 - Inclusão de colaborador em um projeto;
