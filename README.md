@@ -12,8 +12,8 @@ Também serão exercitados conceitos da linguagem Markdown, um exemplo é a cria
 
 A partir deste ponto, todas as alterações serão realizadas com base em um item do exercício.
 
-1. Clone em máquina Local.:
+1. Clone em máquina Local.:<br>
 Esta é uma alteração feita a partir de um clone, via VSCODE na máquina local.
 
-2. Resolução de Issue.:
+2. Resolução de Issue.:<br>
 Data de Realização.: 28-09-2024
